@@ -20,6 +20,9 @@ This repo is a part of a larger PadPal project. The following is a list of the r
     - Bold, italic, strikethru
     - H1-H6
     - Image inserts?
+  - @ macros like gdocs
+    - @today for <insert date>
+    - more?
 - Sync to/from server
   - auto?
 - Note orginization
