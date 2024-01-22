@@ -9,6 +9,12 @@ This repo is a part of a larger PadPal project. The following is a list of the r
   - This is the CLI for syncing a workspace / your notes to your computer.
 - [PadPal-Mobile](https://github.com/ssebs/PadPal-Mobile)
   - This is the mobile app to interact with a hosted PadPal-Server.
+
+## Docs
+- Editor:
+  - https://pub.dev/packages/super_editor
+  - https://github.com/singerdmx/flutter-quill/
+  - 
  
 ## Feature list for PadPal-Mobile
 ### MVP
