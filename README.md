@@ -13,8 +13,8 @@ This repo is a part of a larger PadPal project. The following is a list of the r
 ## Docs
 - Editor:
   - https://pub.dev/packages/super_editor
-  - https://github.com/singerdmx/flutter-quill/
-  - 
+  - https://github.com/singerdmx/flutter-quill/ - slide gesture detection for bullet points
+  - https://api.flutter.dev/flutter/widgets/GestureDetector/onHorizontalDragUpdate.html
  
 ## Feature list for PadPal-Mobile
 ### MVP
