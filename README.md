@@ -55,7 +55,7 @@ This repo is a part of a larger PadPal project. The following is a list of the r
 ### Wish
 - SSO 
 - Handle merge conflict
-- 
+- Desktop => copy paste as rich text for use with word, etc.
  
 ## LICENSE
 [Apache License 2.0](./LICENSE)
